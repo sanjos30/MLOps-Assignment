@@ -25,7 +25,9 @@ jobs:
           pip install -r requirements.txt
 
       - name: Lint code
-        run: flake8 app
+        run: flake8 ./app
 
       - name: Run tests
-        run: pytest app
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+        run: pytest ./app
