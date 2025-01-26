@@ -57,7 +57,7 @@ for params in param_grid:
             sk_model=model,
             artifact_path="model",
             input_example=input_example,
-            registered_model_name=model_name  # Register the model in MLflow Model Registry
+            registered_model_name=model_name
         )
 
         print(f"Model registered as: {model_name}")
