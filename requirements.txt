@@ -1,3 +1,6 @@
+flask
 flake8
 pytest
-flask
+mlflow
+dvc
+scikit-learn
