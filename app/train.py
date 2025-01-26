@@ -18,7 +18,7 @@ mlflow.set_experiment("Iris Classifier Experiment")
 # Start MLflow run
 with mlflow.start_run():
     # Define parameters
-    params = {"n_estimators": 10, "max_depth": 3}
+    params = {"n_estimators": 22, "max_depth": 9}
     model = RandomForestClassifier(**params)
 
     # Train the model
