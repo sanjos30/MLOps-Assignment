@@ -1,2 +1,2 @@
 # MLOps-Assignment
-MLOps-Assignment for Sem 3
+Sem 3 MLOps assignment work
