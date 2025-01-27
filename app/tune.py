@@ -10,8 +10,10 @@ data = load_iris()
 X = data.data
 y = data.target
 
+
 # Train-test split
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2,
+ random_state=42)
 
 # Define parameter grid for tuning
 param_grid = {
@@ -23,8 +25,10 @@ param_grid = {
 # Initialize model
 model = RandomForestClassifier(random_state=42)
 
+
 # Perform grid search
-grid_search = GridSearchCV(estimator=model, param_grid=param_grid, cv=3, scoring="accuracy")
+grid_search = GridSearchCV(estimator=model,
+ param_grid=param_grid, cv=3, scoring="accuracy")
 grid_search.fit(X_train, y_train)
 
 # Get best parameters and score
