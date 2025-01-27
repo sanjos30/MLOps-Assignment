@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps-Assignment/mlruns/158105573897580942/279718dc4fa84953ac93458a61662598/artifacts
+end_time: 1737919940127
+entry_point_name: ''
+experiment_id: '158105573897580942'
+lifecycle_stage: active
+run_id: 279718dc4fa84953ac93458a61662598
+run_name: suave-lamb-60
+run_uuid: 279718dc4fa84953ac93458a61662598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737919936596
+status: 3
+tags: []
+user_id: codespace
