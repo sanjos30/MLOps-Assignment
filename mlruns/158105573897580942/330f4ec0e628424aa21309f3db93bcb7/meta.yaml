@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps-Assignment/mlruns/158105573897580942/330f4ec0e628424aa21309f3db93bcb7/artifacts
+end_time: 1737920482412
+entry_point_name: ''
+experiment_id: '158105573897580942'
+lifecycle_stage: active
+run_id: 330f4ec0e628424aa21309f3db93bcb7
+run_name: melodic-skink-793
+run_uuid: 330f4ec0e628424aa21309f3db93bcb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737920479240
+status: 3
+tags: []
+user_id: codespace

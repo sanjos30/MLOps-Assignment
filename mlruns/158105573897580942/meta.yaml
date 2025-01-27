@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/MLOps-Assignment/mlruns/158105573897580942
+creation_time: 1737918840773
+experiment_id: '158105573897580942'
+last_update_time: 1737918840773
+lifecycle_stage: active
+name: Iris Classifier Experiment

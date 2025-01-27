@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1737962453394
+current_stage: None
+description: ''
+last_updated_timestamp: 1737962453394
+name: IrisClassifier
+run_id: 7dbbd446016c4d3b8bd95535d94ee586
+run_link: ''
+source: file:///workspaces/MLOps-Assignment/mlruns/0/7dbbd446016c4d3b8bd95535d94ee586/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///workspaces/MLOps-Assignment/mlruns/0/7dbbd446016c4d3b8bd95535d94ee586/artifacts/model
+user_id: null
+version: 4

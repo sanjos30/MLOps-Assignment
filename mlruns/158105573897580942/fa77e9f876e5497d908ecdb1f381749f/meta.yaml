@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps-Assignment/mlruns/158105573897580942/fa77e9f876e5497d908ecdb1f381749f/artifacts
+end_time: 1737920720592
+entry_point_name: ''
+experiment_id: '158105573897580942'
+lifecycle_stage: active
+run_id: fa77e9f876e5497d908ecdb1f381749f
+run_name: efficient-perch-195
+run_uuid: fa77e9f876e5497d908ecdb1f381749f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737920717728
+status: 3
+tags: []
+user_id: codespace

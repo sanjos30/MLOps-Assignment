@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps-Assignment/mlruns/158105573897580942/01cd5d8984a5412bab2f11de45dc8086/artifacts
+end_time: 1737920714732
+entry_point_name: ''
+experiment_id: '158105573897580942'
+lifecycle_stage: active
+run_id: 01cd5d8984a5412bab2f11de45dc8086
+run_name: mercurial-stoat-408
+run_uuid: 01cd5d8984a5412bab2f11de45dc8086
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737920710929
+status: 3
+tags: []
+user_id: codespace
