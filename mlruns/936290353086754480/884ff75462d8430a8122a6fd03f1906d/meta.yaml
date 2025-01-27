@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps-Assignment/mlruns/936290353086754480/884ff75462d8430a8122a6fd03f1906d/artifacts
+end_time: 1737962339505
+entry_point_name: ''
+experiment_id: '936290353086754480'
+lifecycle_stage: active
+run_id: 884ff75462d8430a8122a6fd03f1906d
+run_name: gaudy-skink-554
+run_uuid: 884ff75462d8430a8122a6fd03f1906d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737962335916
+status: 3
+tags: []
+user_id: codespace

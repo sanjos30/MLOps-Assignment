@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/MLOps-Assignment/mlruns/936290353086754480
+creation_time: 1737962335566
+experiment_id: '936290353086754480'
+last_update_time: 1737962335566
+lifecycle_stage: active
+name: Iris Classifier Tuning

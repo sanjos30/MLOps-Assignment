@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps-Assignment/mlruns/158105573897580942/0f36b654e6ff4e0fa6af7a05b87d1560/artifacts
+end_time: 1737919976065
+entry_point_name: ''
+experiment_id: '158105573897580942'
+lifecycle_stage: active
+run_id: 0f36b654e6ff4e0fa6af7a05b87d1560
+run_name: wistful-hen-11
+run_uuid: 0f36b654e6ff4e0fa6af7a05b87d1560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737919972492
+status: 3
+tags: []
+user_id: codespace

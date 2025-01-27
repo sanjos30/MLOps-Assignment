@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps-Assignment/mlruns/158105573897580942/8cfacc2e7e32436c891d96cd37cb8120/artifacts
+end_time: 1737919964117
+entry_point_name: ''
+experiment_id: '158105573897580942'
+lifecycle_stage: active
+run_id: 8cfacc2e7e32436c891d96cd37cb8120
+run_name: illustrious-eel-95
+run_uuid: 8cfacc2e7e32436c891d96cd37cb8120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737919960563
+status: 3
+tags: []
+user_id: codespace
